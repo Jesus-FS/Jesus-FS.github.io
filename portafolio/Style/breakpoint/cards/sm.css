@@ -1,0 +1,11 @@
+@media (max-width: 640px) {
+  .cards {
+    -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+            justify-content: center !important;
+  }
+  .cards .card {
+    margin-bottom: 50px;
+  }
+}
+/*# sourceMappingURL=sm.css.map */

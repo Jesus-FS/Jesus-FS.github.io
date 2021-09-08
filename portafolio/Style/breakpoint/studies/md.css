@@ -1,0 +1,23 @@
+@media (max-width: 960px) {
+  .studies {
+    padding: 4rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .studies .text {
+    width: 100% !important;
+  }
+  .studies .text h1 {
+    text-align: center;
+  }
+  .studies .text .chibi-icon, .studies .text .chibi-point {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+  }
+  .studies .img-studies {
+    display: none !important;
+  }
+}
+/*# sourceMappingURL=md.css.map */
